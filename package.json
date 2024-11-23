@@ -4,8 +4,7 @@
     "description": "Documentación generada con Docsify",
     "main": "index.js",
     "scripts": {
-      "start": "docsify serve ./docs",
-      "build": "docsify init ./docs"
+      "start": "docsify serve ./docs"
     },
     "dependencies": {},
     "devDependencies": {
